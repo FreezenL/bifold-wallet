@@ -241,3 +241,5 @@
 ### Major Changes
 
 - 43de99c: first major release of new @bifold packages
+
+<!-- Auto-update: 2025-10-07T04:22:54.809907 -->
